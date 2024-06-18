@@ -1,5 +1,8 @@
-## Hi
-
+## Hi I'm HyperQTQ!
+I'm a programmer from Estonia who likes metal and stuff.
+Did some competitive programming in high school, currently trying to complete some personal projects.
+- Learning SwiftUI, C++, AR development.
+- 
 <!--
 **HyperQTQ/HyperQTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
