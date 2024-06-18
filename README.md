@@ -2,7 +2,7 @@
 I'm a programmer from Estonia who likes metal and stuff.
 Did some competitive programming in high school, currently trying to complete some personal projects.
 - Learning SwiftUI, C++, AR development.
-- Will gladly help with any open-source projects, just send me a DM on discord :).
+- Will gladly help with any open-source projects, just send me a DM on discord(binaryindexedtree) :).
 <!--
 **HyperQTQ/HyperQTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
