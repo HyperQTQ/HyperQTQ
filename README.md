@@ -1,7 +1,6 @@
 ## Hi I'm HyperQTQ!
 - 🌱 I’m currently exploring cybersecurity, networking and game development in addition to working towards a bachelors in IT.
 - 📫 How to reach me: discord: binaryindexedtree
-- 
 <!--
 **HyperQTQ/HyperQTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
